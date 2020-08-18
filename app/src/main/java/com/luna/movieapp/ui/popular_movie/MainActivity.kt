@@ -1,11 +1,10 @@
-package com.luna.movieapp.ui
+package com.luna.movieapp.ui.popular_movie
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.luna.movieapp.R
 import com.luna.movieapp.ui.single_movie_details.SingleMovie
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
